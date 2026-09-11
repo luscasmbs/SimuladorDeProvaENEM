@@ -1,0 +1,6 @@
+{
+  "name": "Quadro de Horários",
+  "description": "Quadro visual de controle e acompanhamento de horários com apagamento progressivo baseado no relógio real.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
